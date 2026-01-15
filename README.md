@@ -20,6 +20,10 @@
 </div>
 <hr>
 <h1>⚙️Estatisticas</h1>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luiswittlich&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luiswittlich&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luiswittlich&theme=tokyonight&utcOffset=8) |
+  | :-: | :-: | :-: |
+
 <div align="center" display="inline-block">
 <img
   align="left"
