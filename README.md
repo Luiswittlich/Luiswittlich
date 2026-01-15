@@ -10,7 +10,7 @@
 </div>
 <hr>
 <h1>👀 Minhas redes sociais!</h1>
-<a href="https://www.instagram.com/luis_wittlich/#" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-%23FF0069?logo=Instagram"></a>
+<a href="https://www.instagram.com/luis_wittlich/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-%23FF0069?logo=Instagram"></a>
 <hr>
 <h1>🤖 Linguagens e Tecnologias</h1>
 <div style="display: "display_block">
