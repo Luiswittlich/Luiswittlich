@@ -10,6 +10,7 @@
 </div>
 <hr>
 <h1>👀 Minhas redes sociais!</h1>
+<a href="https://www.instagram.com/luis_wittlich/#" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23FF0069?logo=Instagram"></a>
 <hr>
 <h1>🤖 Linguagens e Tecnologias</h1>
 <div style="display: "display_block">
@@ -20,10 +21,14 @@
 </div>
 <hr>
 <h1>⚙️Estatisticas</h1>
-
-  |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luiswittlich&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luiswittlich&theme=tokyonight) |
+<div align="center">
+  
+  | ![Anurag's GitHub stats](https://github-readme-stats-eight-bice-24.vercel.app/api?username=Luiswittlich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | [![Top Langs](https://github-readme-stats-eight-bice-24.vercel.app/api/top-langs/?username=Luiswittlich&theme=tokyonight&layout=compact&card_height=470&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats) |
 | :-: | :-: |
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luiswittlich&theme=tokyonight)
+
+</div>
 <div align="center" display="inline-block">
 <img
   align="left"
