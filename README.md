@@ -10,21 +10,6 @@
 </div>
 <hr>
 
-<h1>👀 Minhas redes sociais!</h1>
-<a href="https://www.instagram.com/luis_wittlich/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="#" target="_blank" rel="external"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
-
-
-
-<hr>
-<h1>🤖 Linguagens e Tecnologias</h1>
-<div style="display: "display_block">
-<img align="center" alt="Luis-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="Luis-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="Luis-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="Luis-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-<hr>
 <h1>⚙️Estatisticas</h1>
 <div align="center" display="inline-block">
 <img
@@ -45,6 +30,31 @@
   src="https://github-readme-stats-eight-bice-24.vercel.app/api/top-langs/?username=Luiswittlich&theme=tokyonight&layout=compact&locale=pt-br"
   />
   </div><br>
+
+  <hr>
+<h1>🤖 Linguagens e Tecnologias</h1>
+<div align="center" style="display: "display_block">
+<img align="center" alt="Luis-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="Luis-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="Luis-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="Luis-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
+<p align="center"><img width="270" src="https://github.com/Luiswittlich/github-readme-streak-stats/blob/main/tests/Gato_programando.png"></p>
+<hr>
+
+<h1>👀 Minhas redes sociais!</h1>
+<div align="center">
+<a href="https://www.instagram.com/luis_wittlich/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="#" target="_blank" rel="external"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4b0082&section=footer">
+
+
+
+
+
 
 
   
