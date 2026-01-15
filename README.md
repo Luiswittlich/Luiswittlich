@@ -40,7 +40,7 @@
 <img align="center" style="margin-bottom: 30px;" alt="Luis-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-<p align="center"><img width="270" src="https://github.com/Luiswittlich/github-readme-streak-stats/blob/main/tests/Gato_programando.png"></p>
+<p align="center"><img width="270" src="https://github.com/Luiswittlich/JavaSCRIPT/blob/main/Imagens/Gato_programando.png"></p>
 <hr>
 
 <h1>👀 Minhas redes sociais!</h1>
