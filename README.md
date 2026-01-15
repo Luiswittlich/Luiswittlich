@@ -33,11 +33,11 @@
 
   <hr>
 <h1>🤖 Linguagens e Tecnologias</h1>
-<div align="center" style="display: "display_block">
-<img align="center" alt="Luis-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="Luis-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="Luis-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="Luis-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<div align="center" style="display: "inline_block">
+<img align="center" style="margin-bottom: 30px;" alt="Luis-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" style="margin-bottom: 30px;" alt="Luis-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" style="margin-bottom: 30px;" alt="Luis-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" style="margin-bottom: 30px;" alt="Luis-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
 <p align="center"><img width="270" src="https://github.com/Luiswittlich/github-readme-streak-stats/blob/main/tests/Gato_programando.png"></p>
