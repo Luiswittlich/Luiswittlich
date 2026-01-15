@@ -5,8 +5,17 @@
   <p>💼 let emprego = `Atualemnte trabalho como assistente administrativo, futuramente quero atuar como front-end!`</p>
 </div>
 
-[![Luiswittlich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiswittlich)](https://github.com/Luiswittlich/HTML-CSS/github-readme-stats)
-[![Luiswittlich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiswittlich&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Luiswittlich&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Luiswittlich&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiswittlich&show_icons=true" />
+</picture>
 
   <h1>👀 Minhas redes sociais!</h1>
   
