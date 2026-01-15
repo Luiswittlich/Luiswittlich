@@ -9,8 +9,13 @@
   <p>💼 let <strong>emprego</strong> = `Atualemnte trabalho como assistente administrativo, futuramente quero atuar como front-end!`</p>
 </div>
 <hr>
+
 <h1>👀 Minhas redes sociais!</h1>
-<a href="https://www.instagram.com/luis_wittlich/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-%23FF0069?logo=Instagram"></a>
+<a href="https://www.instagram.com/luis_wittlich/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="#" target="_blank" rel="external"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
+
+
+
 <hr>
 <h1>🤖 Linguagens e Tecnologias</h1>
 <div style="display: "display_block">
@@ -21,17 +26,9 @@
 </div>
 <hr>
 <h1>⚙️Estatisticas</h1>
-<div align="center">
-  
-  | ![Anurag's GitHub stats](https://github-readme-stats-eight-bice-24.vercel.app/api?username=Luiswittlich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | [![Top Langs](https://github-readme-stats-eight-bice-24.vercel.app/api/top-langs/?username=Luiswittlich&theme=tokyonight&layout=compact&card_height=470&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats) |
-| :-: | :-: |
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luiswittlich&theme=tokyonight)
-
-</div>
 <div align="center" display="inline-block">
 <img
-  align="left"
+  align="center"
   alt="Github-stats"
   width="400px;"
   height="200px;"
@@ -40,9 +37,9 @@
   src="https://github-readme-stats-eight-bice-24.vercel.app/api?username=Luiswittlich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 <img
-  align="left"
+  align="center"
   alt="Github-langs"
-  width="350px;"
+  width="360px;"
   height="200px;"
   style="padding-right: 10px;"
   src="https://github-readme-stats-eight-bice-24.vercel.app/api/top-langs/?username=Luiswittlich&theme=tokyonight&layout=compact&locale=pt-br"
