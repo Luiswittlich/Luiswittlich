@@ -14,9 +14,8 @@
 </div>
 <hr>
 <h1>⚙️Estatisticas</h1>
-<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiswittlich&show_icons=true)
-</div>
+
 <h1>👀 Minhas redes sociais!</h1>
 
   
