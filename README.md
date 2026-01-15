@@ -5,7 +5,7 @@
   <p>💼 let emprego = `Atualemnte trabalho como assistente administrativo, futuramente quero atuar como front-end!`</p>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiswittlich)](https://github.com/anuraghazra/github-readme-stats)
+[![Luiswittlich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiswittlich)](https://github.com/Luiswittlich/github-readme-stats)
 
   <h1>👀 Minhas redes sociais!</h1>
   
