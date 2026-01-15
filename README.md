@@ -4,8 +4,9 @@
   <p>👓 let curso = `Como complemento estou estudando JavaScript, possuo certificados em HTML5 e CSS3 pelo Curso em Video!`</p>
   <p>💼 let emprego = `Atualemnte trabalho como assistente administrativo, futuramente quero atuar como front-end!`</p>
 </div>
-[![Luis GitHub status](https://github-readme-stats.vercel.app/api?username=Luiswittlich)](https://github.com/Luiswittlich/github-readme-stats)
-<div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiswittlich)](https://github.com/anuraghazra/github-readme-stats)
+
   <h1>👀 Minhas redes sociais!</h1>
   
 </div>
