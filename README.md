@@ -14,12 +14,13 @@
 </div>
 <hr>
 <h1>⚙️Estatisticas</h1>
-
+<div>
 <img
   align="left"
   alt="Github-stats"
   height="200px;"
-  style="padding-right: 10px;"
+  style="padding-right: 10px"
+  style="padding-bottom: 10px"
   src="https://github-readme-stats-eight-bice-24.vercel.app/api?username=Luiswittlich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 <img
@@ -28,12 +29,16 @@
   height="200px;"
   style="padding-right: 10px;"
   src="https://github-readme-stats-eight-bice-24.vercel.app/api/top-langs/?username=Luiswittlich&theme=tokyonight&layout=compact&locale=pt-br"
-  /><br>
-
-[![GitHub Streak](https://github-readme-streak-stats-ten-lac.vercel.app?user=Luiswittlich&theme=nightowl&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=420&card_height=200)](https://git.io/streak-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luiswittlich&theme=moonlight)
-
+  />
+  <img
+  align="left"
+  alt="Github-streak"
+  height="200px;"
+  style="padding-right: 10px;"
+  src="https://github-readme-streak-stats-ten-lac.vercel.app?user=Luiswittlich&theme=nightowl&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=420&card_height=200"
+  />
+  <br>
+  </div>
 <h1>👀 Minhas redes sociais!</h1>
 
   
