@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082">
 <h1>👋🏻Olá, meu nome é Luis Carlos, Bem-vindo ao meu GitHub</h1>
 <div>
   <p>👨🏻‍🎓 let <strong>formação</strong> = `Estou cursando Analise e Desenvolvimento de sistemas pela Uninter!`</p>
