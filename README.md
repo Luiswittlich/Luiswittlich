@@ -6,6 +6,7 @@
 </div>
 
 [![Luiswittlich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiswittlich)](https://github.com/Luiswittlich/HTML-CSS/github-readme-stats)
+[![Luiswittlich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiswittlich&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
   <h1>👀 Minhas redes sociais!</h1>
   
