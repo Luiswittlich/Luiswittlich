@@ -14,7 +14,7 @@
 </div>
 <hr>
 <h1>⚙️Estatisticas</h1>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luiswittlich&theme=tokyonight&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Luiswittlich&theme=tokyonight&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 <h1>👀 Minhas redes sociais!</h1>
 
