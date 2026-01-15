@@ -1,9 +1,14 @@
-## Hi there 👋
-
-<!--
-**Luiswittlich/Luiswittlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1>👋🏻Olá, meu nome é Luis Carlos, Bem-vindo ao meu GitHub</h1>
+<div>
+  <p>👨🏻‍🎓 let formação = `Estou cursando Analise e Desenvolvimento de sistemas pela Uninter!`</p>
+  <p>👓 let curso = `Como complemento estou estudando JavaScript, possuo certificados em HTML5 e CSS3 pelo Curso em Video!`</p>
+  <p>💼 let emprego = `Atualemnte trabalho como assistente administrativo, futuramente quero atuar como front-end!`</p>
+</div>
+[![Luis GitHub status](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <h1>👀 Minhas redes sociais!</h1>
+  
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
