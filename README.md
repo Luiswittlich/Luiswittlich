@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082">
-<h1>👋🏻Olá, meu nome é Luis Carlos, Bem-vindo ao meu GitHub</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=40&pause=1000&color=8000DE&width=600&lines=%F0%9F%91%8B%F0%9F%8F%BBOl%C3%A1%2C+meu+nome+%C3%A9+Luis+Carlos%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=40&pause=1000&color=8000DE&width=600&lines=%F0%9F%9A%80Bem-vindo+ao+meu+Github)](https://git.io/typing-svg)
+
 <div>
   <p>👨🏻‍🎓 let <strong>formação</strong> = `Estou cursando Analise e Desenvolvimento de sistemas pela Uninter!`</p>
   <p>👓 let curso = `Como complemento estou estudando JavaScript, possuo certificados em HTML5 e CSS3 pelo Curso em Video!`</p>
