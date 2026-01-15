@@ -5,8 +5,8 @@
 
 <div>
   <p>👨🏻‍🎓 let <strong>formação</strong> = `Estou cursando Analise e Desenvolvimento de sistemas pela Uninter!`</p>
-  <p>👓 let curso = `Como complemento estou estudando JavaScript, possuo certificados em HTML5 e CSS3 pelo Curso em Video!`</p>
-  <p>💼 let emprego = `Atualemnte trabalho como assistente administrativo, futuramente quero atuar como front-end!`</p>
+  <p>👓 let <strong>curso</strong> = `Como complemento estou estudando JavaScript, possuo certificados em HTML5 e CSS3 pelo Curso em Video!`</p>
+  <p>💼 let <strong>emprego</strong> = `Atualemnte trabalho como assistente administrativo, futuramente quero atuar como front-end!`</p>
 </div>
 <hr>
 <h1>👀 Minhas redes sociais!</h1>
@@ -24,7 +24,7 @@
 <img
   align="left"
   alt="Github-stats"
-  width="450px;"
+  width="400px;"
   height="200px;"
   style="padding-right: 2px"
   style="padding-bottom: 10px"
@@ -33,7 +33,7 @@
 <img
   align="left"
   alt="Github-langs"
-  width="400px;"
+  width="350px;"
   height="200px;"
   style="padding-right: 10px;"
   src="https://github-readme-stats-eight-bice-24.vercel.app/api/top-langs/?username=Luiswittlich&theme=tokyonight&layout=compact&locale=pt-br"
