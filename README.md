@@ -15,7 +15,7 @@
 <hr>
 <h1>⚙️Estatisticas</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats-ten-xi-m9mj6iv8fp.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)<br>
+![Anurag's GitHub stats](https://github-readme-stats-git-master-luiswittlichs-projects.vercel.app/api?username=Luiswittlich&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) <br>
 
 [![GitHub Streak](https://github-readme-streak-stats-ten-lac.vercel.app?user=Luiswittlich&theme=nightowl&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=420&card_height=200)](https://git.io/streak-stats)
 
