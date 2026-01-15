@@ -1,9 +1,11 @@
 <h1>👋🏻Olá, meu nome é Luis Carlos, Bem-vindo ao meu GitHub</h1>
 <div>
-  <p>👨🏻‍🎓 let formação = `Estou cursando Analise e Desenvolvimento de sistemas pela Uninter!`</p>
+  <p>👨🏻‍🎓 let <strong>formação</strong> = `Estou cursando Analise e Desenvolvimento de sistemas pela Uninter!`</p>
   <p>👓 let curso = `Como complemento estou estudando JavaScript, possuo certificados em HTML5 e CSS3 pelo Curso em Video!`</p>
   <p>💼 let emprego = `Atualemnte trabalho como assistente administrativo, futuramente quero atuar como front-end!`</p>
 </div>
+<hr>
+<h1>👀 Minhas redes sociais!</h1>
 <hr>
 <h1>🤖 Linguagens e Tecnologias</h1>
 <div style="display: "display_block">
@@ -37,8 +39,7 @@
   style="padding-right: 10px;"
   src="https://github-readme-streak-stats-ten-lac.vercel.app?user=Luiswittlich&theme=nightowl&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=420&card_height=200"
   />
-  <br>
-  </div>
-<h1>👀 Minhas redes sociais!</h1>
+  </div><br>
+
 
   
