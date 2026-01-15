@@ -15,7 +15,10 @@
 <hr>
 <h1>⚙️Estatisticas</h1>
 
+![Anurag's GitHub stats](https://github-readme-stats-ten-xi-m9mj6iv8fp.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)<br>
+
 [![GitHub Streak](https://github-readme-streak-stats-ten-lac.vercel.app?user=Luiswittlich&theme=nightowl&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=420&card_height=200)](https://git.io/streak-stats)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luiswittlich&theme=moonlight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luiswittlich&theme=moonlight)
 
