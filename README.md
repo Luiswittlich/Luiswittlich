@@ -20,7 +20,7 @@
 </div>
 <hr>
 <h1>⚙️Estatisticas</h1>
-<div>
+<div align="center" display="inline-block">
 <img
   align="left"
   alt="Github-stats"
