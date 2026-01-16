@@ -50,7 +50,7 @@
 <div align="center">
 <a href="https://www.instagram.com/luis_wittlich/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="#" target="_blank" rel="external"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
-<a href="www.linkedin.com/in/luiswittlich" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-%230e76a8?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/luiswittlich" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-%230e76a8?style=for-the-badge"></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4b0082&section=footer">
