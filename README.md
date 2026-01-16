@@ -31,8 +31,8 @@
   /> 
   </div><br>
 
-  | ![](http://sumamary-cards.vercel.app/api/cards/stats?username=Luiswittlich&theme=tokyonight&locale=pt-br) | ![](http://sumamary-cards.vercel.app/api/cards/productive-time?username=Luiswittlich&theme=tokyonight&utcOffset=8&locale=pt-br) | ![](http://sumamary-cards.vercel.app/api/cards/repos-per-language?username=Luiswittlich&theme=tokyonight) |
-  | :-: | :-: | :-: |
+  | ![](http://sumamary-cards.vercel.app/api/cards/profile-details?username=Luiswittlich&theme=tokyonight) | ![](http://sumamary-cards.vercel.app/api/cards/repos-per-language?username=Luiswittlich&theme=tokyonight) |
+  | :-: | :-: |
 
   <hr>
 <h1>🤖 Linguagens e Tecnologias</h1>
