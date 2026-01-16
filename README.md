@@ -20,7 +20,7 @@
   style="padding-right: 2px"
   style="padding-bottom: 10px"
   src="https://github-readme-stats-eight-bice-24.vercel.app/api?username=Luiswittlich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+  /> 
 <img
   align="center"
   alt="Github-langs"
@@ -28,8 +28,11 @@
   height="200px;"
   style="padding-right: 10px;"
   src="https://github-readme-stats-eight-bice-24.vercel.app/api/top-langs/?username=Luiswittlich&theme=tokyonight&layout=compact&locale=pt-br"
-  />
+  /> 
   </div><br>
+
+  | ![](http://sumamary-cards.vercel.app/api/cards/stats?username=Luiswittlich&theme=tokyonight&locale=pt-br) | ![](http://sumamary-cards.vercel.app/api/cards/productive-time?username=Luiswittlich&theme=tokyonight&utcOffset=8&locale=pt-br) | ![](http://sumamary-cards.vercel.app/api/cards/repos-per-language?username=Luiswittlich&theme=tokyonight) |
+  | :-: | :-: | :-: |
 
   <hr>
 <h1>🤖 Linguagens e Tecnologias</h1>
